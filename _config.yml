@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yuntian Chen"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : # example: "he/his"  
+  bio              : "Dedicated to developing scientific machine learning that combines domain knowledge and AI for applications in mechanics and energy."
+  location         : "Ningbo/Beijing/Shenzhen, China"
+  employer         : "Eastern Institute of Technology, Ningbo"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ychen@eitech.edu.cn" 
 
   # Academic websites
   academia         : # URL
