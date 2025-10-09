@@ -262,3 +262,11 @@
     }
   }
 }
+
+
+.sidebar .bio {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  overflow-y: auto;
+  max-height: 90vh;
+}
