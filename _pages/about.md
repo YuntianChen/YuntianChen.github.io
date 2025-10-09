@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 Research Vision | From Data Intelligence to Scientific Intelligence
-======
+------
 My research aims to build a new paradigm of Scientific Intelligence — an AI framework that deeply **fuses knowledge and data** to enable machines not only to learn the laws of nature but also to discover them.
 
 I strive to connect **theory, experiment, and application** through an integrated scientific learning system capable of reasoning, inference, and innovation.
 The ultimate goal is to develop AI systems that act as true **“AI Scientists”**, advancing scientific discovery from experience-driven to intelligence-driven processes.
 
 I. Knowledge–Data Integration: The Core Architecture of Scientific Intelligence
-======
+------
 This research direction focuses on constructing a unified architecture that deeply integrates **human knowledge** and **data-driven learning**, enabling AI systems to learn and reason under physical principles while retaining computational efficiency and interpretability.
 
 The framework is powered by two synergistic mechanisms:
@@ -29,14 +29,15 @@ It breaks the traditional divide between **discrete symbolic semantic space** (s
 As a result, this framework transforms AI models from black boxes into white boxes represented by explicit knowledge and governing equations—
 achieving a new generation of **scientific machine learning models** that are physically grounded, mathematically precise, and computationally efficient.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+II. AI-Assisted Fluid Mechanics: Intelligent Modeling and Aerodynamic Design
+------
+This research direction integrates **artificial intelligence and fluid mechanics** to develop new methods for high-fidelity, data-efficient flow modeling and intelligent aerodynamic optimization.
+
+We focus on enabling **AI-driven turbulence modeling**, achieving high-accuracy simulations under small-sample and noisy conditions. The developed models can reconstruct fine-scale turbulent structures through **super-resolution techniques** and **predict flow evolution over time** with high efficiency and physical consistency.
+
+In addition, my team has established an **AI-based aerodynamic design framework** that enables rapid drag prediction, pressure field estimation, and 3D vehicle shape generation and optimization. By coupling physical constraints with deep learning, this system allows end-to-end aerodynamic analysis and design iteration—accelerating innovation in vehicle design and intelligent manufacturing.
+
+Together, these advances demonstrate how AI can serve as a bridge between physics-based understanding and engineering application, providing new tools for efficient, interpretable, and physically consistent fluid modeling.
 
 Site-wide configuration
 ------
