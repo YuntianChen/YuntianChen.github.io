@@ -8,26 +8,26 @@ redirect_from:
 ---
 Research Vision | From Data Intelligence to Scientific Intelligence
 ======
-My research aims to build a new paradigm of Scientific Intelligence — an AI framework that deeply fuses knowledge and data to enable machines not only to learn the laws of nature but also to discover them.
+My research aims to build a new paradigm of Scientific Intelligence — an AI framework that deeply **fuses knowledge and data** to enable machines not only to learn the laws of nature but also to discover them.
 
-I strive to connect theory, experiment, and application through an integrated scientific learning system capable of reasoning, inference, and innovation.
-The ultimate goal is to develop AI systems that act as true “AI Scientists”, advancing scientific discovery from experience-driven to intelligence-driven processes.
+I strive to connect **theory, experiment, and application** through an integrated scientific learning system capable of reasoning, inference, and innovation.
+The ultimate goal is to develop AI systems that act as true **“AI Scientists”**, advancing scientific discovery from experience-driven to intelligence-driven processes.
 
 I. Knowledge–Data Integration: The Core Architecture of Scientific Intelligence
 ======
-This research direction focuses on constructing a unified architecture that deeply integrates human knowledge and data-driven learning, enabling AI systems to learn and reason under physical principles while retaining computational efficiency and interpretability.
+This research direction focuses on constructing a unified architecture that deeply integrates **human knowledge** and **data-driven learning**, enabling AI systems to learn and reason under physical principles while retaining computational efficiency and interpretability.
 
 The framework is powered by two synergistic mechanisms:
 
-1. Knowledge Embedding, which incorporates governing equations, conservation laws, and domain constraints into AI models to ensure that predictions are physically consistent, mathematically accurate, and computationally stable; and
+1. **Knowledge Embedding**, which incorporates governing equations, conservation laws, and domain constraints into AI models to ensure that predictions are physically consistent, mathematically accurate, and computationally stable; and
 
-2. Knowledge Discovery, which employs symbolic reasoning and reinforcement learning to autonomously extract and represent governing equations from observational or experimental data.
+2. **Knowledge Discovery**, which employs symbolic reasoning and reinforcement learning to autonomously extract and represent governing equations from observational or experimental data.
 
-Together, these two mechanisms form a self-evolving architecture that continuously bridges knowledge and data.
-It breaks the traditional divide between discrete symbolic semantic spaces (such as equations and qualitative rules) and continuous vector feature spaces (such as neural representations), realizing a seamless fusion of knowledge-driven and data-driven paradigms.
+Together, these two mechanisms form **a self-evolving architecture** that continuously bridges knowledge and data.
+It breaks the traditional divide between **discrete symbolic semantic space** (such as equations and qualitative rules) and **continuous vector feature space** (such as neural representations), realizing a seamless fusion of knowledge-driven and data-driven paradigms.
 
 As a result, this framework transforms AI models from black boxes into white boxes represented by explicit knowledge and governing equations—
-achieving a new generation of scientific machine learning models that are physically grounded, mathematically precise, and computationally efficient.
+achieving a new generation of **scientific machine learning models** that are physically grounded, mathematically precise, and computationally efficient.
 
 Getting started
 ======
