@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dedicated to developing scientific machine learning that combines domain knowledge and AI for applications in mechanics and energy."
+title: "Dedicated to developing scientific machine learning that combines domain knowledge and AI"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,16 +13,21 @@ My research aims to build a new paradigm of Scientific Intelligence — an AI fr
 I strive to connect theory, experiment, and application through an integrated scientific learning system capable of reasoning, inference, and innovation.
 The ultimate goal is to develop AI systems that act as true “AI Scientists”, advancing scientific discovery from experience-driven to intelligence-driven processes.
 
-A data-driven personal website
+I. Knowledge–Data Integration: The Core Architecture of Scientific Intelligence
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+This research direction focuses on constructing a unified architecture that deeply integrates human knowledge and data-driven learning, enabling AI systems to learn and reason under physical principles while retaining computational efficiency and interpretability.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+The framework is powered by two synergistic mechanisms:
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+1. Knowledge Embedding, which incorporates governing equations, conservation laws, and domain constraints into AI models to ensure that predictions are physically consistent, mathematically accurate, and computationally stable; and
+
+2. Knowledge Discovery, which employs symbolic reasoning and reinforcement learning to autonomously extract and represent governing equations from observational or experimental data.
+
+Together, these two mechanisms form a self-evolving architecture that continuously bridges knowledge and data.
+It breaks the traditional divide between discrete symbolic semantic spaces (such as equations and qualitative rules) and continuous vector feature spaces (such as neural representations), realizing a seamless fusion of knowledge-driven and data-driven paradigms.
+
+As a result, this framework transforms AI models from black boxes into white boxes represented by explicit knowledge and governing equations—
+achieving a new generation of scientific machine learning models that are physically grounded, mathematically precise, and computationally efficient.
 
 Getting started
 ======
