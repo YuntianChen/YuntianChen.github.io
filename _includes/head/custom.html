@@ -14,4 +14,21 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
+<style>
+/* 让侧栏作者信息中的长字符串（如 Ningbo/Beijing/...）能自动换行 */
+.sidebar .author__content,
+.sidebar .author__content p,
+.sidebar .author__urls li,
+.sidebar .author__urls .label,
+.sidebar .author__urls a {
+  white-space: normal;               /* 防止主题里有 nowrap */
+  overflow-wrap: anywhere;           /* 现代浏览器最优解 */
+  word-wrap: break-word;             /* 旧属性，做兼容 */
+  word-break: break-word;            /* 非标准，但常见实现 */
+}
+
+/* 如果仍然不换行（极端情况），把下面这一行取消注释做“强制断词” */
+/* .sidebar .author__urls .label { word-break: break-all; } */
+</style>
+
 <!-- end custom head snippets -->
