@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Dedicated to developing scientific machine learning that combines domain knowledge and AI for applications in mechanics and energy."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Research Vision | From Data Intelligence to Scientific Intelligence
+======
+My research aims to build a new paradigm of Scientific Intelligence — an AI framework that deeply fuses knowledge and data to enable machines not only to learn the laws of nature but also to discover them.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I strive to connect theory, experiment, and application through an integrated scientific learning system capable of reasoning, inference, and innovation.
+The ultimate goal is to develop AI systems that act as true “AI Scientists”, advancing scientific discovery from experience-driven to intelligence-driven processes.
 
 A data-driven personal website
 ======
