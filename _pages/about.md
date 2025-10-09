@@ -24,7 +24,7 @@ The framework is powered by two synergistic mechanisms:
 2. **Knowledge Discovery**, which employs symbolic reasoning and reinforcement learning to autonomously extract and represent governing equations from observational or experimental data.
 
 Together, these two mechanisms form **a self-evolving architecture** that continuously bridges knowledge and data.
-It breaks the traditional divide between **discrete symbolic semantic space** (such as equations and qualitative rules) and **continuous vector feature space** (such as neural representations), realizing a seamless fusion of knowledge-driven and data-driven paradigms.
+It breaks the traditional divide between discrete symbolic semantic space (such as equations and qualitative rules) and continuous vector feature space (such as neural representations), realizing a seamless fusion of knowledge-driven and data-driven paradigms.
 
 As a result, this framework transforms AI models from black boxes into white boxes represented by explicit knowledge and governing equations—
 achieving a new generation of **scientific machine learning models** that are physically grounded, mathematically precise, and computationally efficient.
@@ -33,7 +33,7 @@ II. AI-Assisted Fluid Mechanics: Intelligent Modeling and Aerodynamic Design
 ------
 This research direction integrates **artificial intelligence and fluid mechanics** to develop new methods for high-fidelity, data-efficient flow modeling and intelligent aerodynamic optimization.
 
-We focus on enabling **AI-driven turbulence modeling**, achieving high-accuracy simulations under small-sample and noisy conditions. The developed models can reconstruct fine-scale turbulent structures through **super-resolution techniques** and **predict flow evolution over time** with high efficiency and physical consistency.
+We focus on enabling **AI-driven turbulence modeling**, achieving high-accuracy simulations under small-sample and noisy conditions. The developed models can reconstruct fine-scale turbulent structures through super-resolution techniques and predict flow evolution over time with high efficiency and physical consistency.
 
 In addition, my team has established an **AI-based aerodynamic design framework** that enables rapid drag prediction, pressure field estimation, and 3D vehicle shape generation and optimization. By coupling physical constraints with deep learning, this system allows end-to-end aerodynamic analysis and design iteration—accelerating innovation in vehicle design and intelligent manufacturing.
 
